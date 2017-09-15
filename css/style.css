@@ -1,0 +1,65 @@
+.btn-primary {
+  background-color: red;
+}
+
+.btn-group-lg>.btn, .btn-lg {
+  border-radius: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+/*FIX NAVBAR padding*/
+.navbar {
+  margin: 0px;
+}
+
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/*Demonstration Purposes only*/
+/*.col-md-4 {
+  height: 50px;
+}*/
+
+/*carousel styling*/
+.img-contain {
+  background-size: cover;
+  height: 750px;
+}
+
+/*COLUMN STYLING*/
+.box-size {
+  height: 300px;
+  border: 1px solid grey;
+  line-height: 35px;
+}
+
+.footer {
+  height: 150px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.fa-twitter:before, .fa-facebook-f:before, .fa-facebook:before, .fa-github-alt:before {
+  color: white;
+}
+
+.bg-black {
+  background-color: black;
+}
+
+/*ROW STYLING BG COLORS*/
+.red-bg {
+  background-color: lightblue;
+}
+.green-bg {
+  background-color: palevioletred;
+}
+.blue-bg {
+  background-color: plum;
+}
