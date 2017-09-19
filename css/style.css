@@ -1,3 +1,16 @@
+/*fonts*/
+
+@import url('https://fonts.googleapis.com/css?family=Josefin+Slab|Raleway|Sacramento');
+/*-------*/
+
+.cursive-font {
+  font-family: 'Sacramento', cursive;
+}
+
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
 .btn-primary {
   background-color: red;
 }
@@ -32,6 +45,8 @@ a {
   height: 750px;
 }
 
+
+
 /*COLUMN STYLING*/
 .box-size {
   height: 300px;
@@ -46,7 +61,7 @@ a {
 }
 
 .fa-twitter:before, .fa-facebook-f:before, .fa-facebook:before, .fa-github-alt:before {
-  color: white;
+  color: purple;
 }
 
 .bg-black {
